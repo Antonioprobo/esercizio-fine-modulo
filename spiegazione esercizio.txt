@@ -1,0 +1,27 @@
+Ho caricato gli screenshot in immagini singole poiché mi sembra più comprensibile avendo un titolo ciascuno.
+
+SPIEGAZIONE ESERCIZIO
+
+- creato nuova pagina in WordPress e attivato il plugin Elementor come da istruzioni.
+
+- creato sezione dedicata all'intestazione e inserito logo del sito/attività, aggiunto menu di navigazione grazie al plugin Elementor Header & Footer.
+
+- creato anche footer con lo stesso plugin. Iniziato il sito contemplando sin da subito la modalità responsive, proprio come da indicazioni google (mobile first!).
+
+- aggiunto sezione servizi: impostato tre icone che rimandano ai servizi con sotto una breve descrizione degli stessi.
+
+- aggiunta sezione testimonianze grazie al plugin Envato elements, che mi ha permesso di impoostare un kit e poi rieditarlo.
+
+- aggiunta sezione contatti con modulo di contatto (grazie a plugin dedicato) e aggiunte mappa e info di contatto.
+
+- testato pagina sui diversi schermi e, seppur molto semplice, funziona correttamente.
+
+
+- impostato immagine iniziale in modo da essere invisibile su schermo pc (possibile vedere a quale faccio riferimento in screenshot "Screenshot header e contenuto nascosto per mobile".
+
+
+Purtroppo lavorando oltre 8 ore al giorno e avendo avuto una settimana particolarmente dura, non sono riuscito a dedicare il tempo che avrei voluto all'esercizio.
+Spero apprezziate lo sforzo!
+
+Grazie per l'attenzione, ci vediamo in classe!
+Antonio
